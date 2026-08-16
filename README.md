@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1095-find-in-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/rutuu25/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/rutuu25/leetcode_solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/rutuu25/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rutuu25/leetcode_solutions/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/rutuu25/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
