@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rutuu25/leetcode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0941-valid-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1095-find-in-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
