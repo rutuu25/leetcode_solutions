@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rutuu25/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rutuu25/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Math
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/rutuu25/leetcode_solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/rutuu25/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
