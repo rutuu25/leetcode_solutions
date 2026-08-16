@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/rutuu25/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/rutuu25/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0136-single-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rutuu25/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rutuu25/leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/rutuu25/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rutuu25/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rutuu25/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/rutuu25/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rutuu25/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
