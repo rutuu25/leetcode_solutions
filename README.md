@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rutuu25/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/rutuu25/leetcode_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/rutuu25/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/rutuu25/leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rutuu25/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rutuu25/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rutuu25/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/rutuu25/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/rutuu25/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rutuu25/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
