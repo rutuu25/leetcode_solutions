@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rutuu25/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rutuu25/leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/rutuu25/leetcode_solutions/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/rutuu25/leetcode_solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/rutuu25/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/rutuu25/leetcode_solutions/tree/master/0709-to-lower-case) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rutuu25/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rutuu25/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rutuu25/leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/rutuu25/leetcode_solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
