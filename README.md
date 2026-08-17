@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rutuu25/leetcode_solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2596-check-knight-tour-configuration](https://github.com/rutuu25/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/rutuu25/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rutuu25/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/rutuu25/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rutuu25/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
