@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/rutuu25/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutuu25/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/rutuu25/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/rutuu25/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rutuu25/leetcode_solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
