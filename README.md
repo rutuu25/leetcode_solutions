@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rutuu25/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rutuu25/leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/rutuu25/leetcode_solutions/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/rutuu25/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/rutuu25/leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rutuu25/leetcode_solutions/tree/master/0796-rotate-string) |
