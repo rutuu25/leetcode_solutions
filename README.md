@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rutuu25/leetcode_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/rutuu25/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2938-separate-black-and-white-balls](https://github.com/rutuu25/leetcode_solutions/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/rutuu25/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/rutuu25/leetcode_solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutuu25/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1903-largest-odd-number-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/rutuu25/leetcode_solutions/tree/master/2938-separate-black-and-white-balls) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rutuu25/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1903-largest-odd-number-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
 |  |
