@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/rutuu25/leetcode_solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rutuu25/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rutuu25/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/rutuu25/leetcode_solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rutuu25/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rutuu25/leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rutuu25/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0268-missing-number) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/rutuu25/leetcode_solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/rutuu25/leetcode_solutions/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
