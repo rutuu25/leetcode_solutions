@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rutuu25/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rutuu25/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rutuu25/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rutuu25/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rutuu25/leetcode_solutions/tree/master/0344-reverse-string) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rutuu25/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rutuu25/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rutuu25/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -391,4 +394,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
