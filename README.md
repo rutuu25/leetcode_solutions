@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/rutuu25/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rutuu25/leetcode_solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/rutuu25/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rutuu25/leetcode_solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/rutuu25/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
