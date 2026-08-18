@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/rutuu25/leetcode_solutions/tree/master/2938-separate-black-and-white-balls) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rutuu25/leetcode_solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rutuu25/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/rutuu25/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
