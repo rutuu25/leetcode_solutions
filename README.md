@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rutuu25/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rutuu25/leetcode_solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/rutuu25/leetcode_solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2540-minimum-common-value](https://github.com/rutuu25/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/rutuu25/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rutuu25/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/rutuu25/leetcode_solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
 |  |
