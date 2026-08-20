@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rutuu25/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rutuu25/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rutuu25/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/rutuu25/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rutuu25/leetcode_solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/rutuu25/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/rutuu25/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rutuu25/leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rutuu25/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rutuu25/leetcode_solutions/tree/master/0169-majority-element) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rutuu25/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/rutuu25/leetcode_solutions/tree/master/0455-assign-cookies) |
 ## Enumeration
 |  |
@@ -542,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rutuu25/leetcode_solutions/tree/master/0204-count-primes) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rutuu25/leetcode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
