@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/rutuu25/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutuu25/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rutuu25/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rutuu25/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/rutuu25/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rutuu25/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/rutuu25/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
