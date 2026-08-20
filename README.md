@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/rutuu25/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/rutuu25/leetcode_solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/rutuu25/leetcode_solutions/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rutuu25/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/rutuu25/leetcode_solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1544-make-the-string-great](https://github.com/rutuu25/leetcode_solutions/tree/master/1544-make-the-string-great) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/rutuu25/leetcode_solutions/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutuu25/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
