@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/rutuu25/leetcode_solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/rutuu25/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rutuu25/leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rutuu25/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/rutuu25/leetcode_solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1544-make-the-string-great](https://github.com/rutuu25/leetcode_solutions/tree/master/1544-make-the-string-great) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rutuu25/leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -651,9 +653,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rutuu25/leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rutuu25/leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
