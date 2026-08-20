@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rutuu25/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rutuu25/leetcode_solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/rutuu25/leetcode_solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rutuu25/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0268-missing-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rutuu25/leetcode_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rutuu25/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rutuu25/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/rutuu25/leetcode_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rutuu25/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rutuu25/leetcode_solutions/tree/master/0326-power-of-three) |
@@ -508,4 +510,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rutuu25/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rutuu25/leetcode_solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rutuu25/leetcode_solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rutuu25/leetcode_solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rutuu25/leetcode_solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rutuu25/leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
