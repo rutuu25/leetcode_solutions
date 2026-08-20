@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/rutuu25/leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/rutuu25/leetcode_solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3340-check-balanced-string](https://github.com/rutuu25/leetcode_solutions/tree/master/3340-check-balanced-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/rutuu25/leetcode_solutions/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutuu25/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/rutuu25/leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/rutuu25/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/rutuu25/leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
