@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/rutuu25/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rutuu25/leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/rutuu25/leetcode_solutions/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
