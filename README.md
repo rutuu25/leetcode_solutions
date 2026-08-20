@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/rutuu25/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutuu25/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rutuu25/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rutuu25/leetcode_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/rutuu25/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2938-separate-black-and-white-balls](https://github.com/rutuu25/leetcode_solutions/tree/master/2938-separate-black-and-white-balls) |
 ## String
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/rutuu25/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/rutuu25/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/rutuu25/leetcode_solutions/tree/master/2540-minimum-common-value) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rutuu25/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rutuu25/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2785-sort-vowels-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting Sort
