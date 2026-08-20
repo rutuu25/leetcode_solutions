@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/rutuu25/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/rutuu25/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0912-sort-an-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/rutuu25/leetcode_solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0688-knight-probability-in-chessboard](https://github.com/rutuu25/leetcode_solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rutuu25/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-stone-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -606,4 +609,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rutuu25/leetcode_solutions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/rutuu25/leetcode_solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1122-relative-sort-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
