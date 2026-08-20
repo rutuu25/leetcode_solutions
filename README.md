@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/rutuu25/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/rutuu25/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rutuu25/leetcode_solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/rutuu25/leetcode_solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/rutuu25/leetcode_solutions/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2938-separate-black-and-white-balls](https://github.com/rutuu25/leetcode_solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Math
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rutuu25/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2785-sort-vowels-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rutuu25/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rutuu25/leetcode_solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/rutuu25/leetcode_solutions/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Ternary Search
 |  |
 | ------- |
