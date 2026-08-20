@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rutuu25/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rutuu25/leetcode_solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/rutuu25/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutuu25/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rutuu25/leetcode_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rutuu25/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rutuu25/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rutuu25/leetcode_solutions/tree/master/0342-power-of-four) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rutuu25/leetcode_solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
