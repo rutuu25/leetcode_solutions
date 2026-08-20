@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/rutuu25/leetcode_solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rutuu25/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/rutuu25/leetcode_solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rutuu25/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2785-sort-vowels-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/rutuu25/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
