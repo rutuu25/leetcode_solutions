@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/rutuu25/leetcode_solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3731-find-missing-elements](https://github.com/rutuu25/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rutuu25/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2785-sort-vowels-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/rutuu25/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/rutuu25/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/rutuu25/leetcode_solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/rutuu25/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
