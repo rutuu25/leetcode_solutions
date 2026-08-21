@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/rutuu25/leetcode_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/rutuu25/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/rutuu25/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rutuu25/leetcode_solutions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rutuu25/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Quicksort
 |  |
 | ------- |
