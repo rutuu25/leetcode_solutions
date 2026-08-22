@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutuu25/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/rutuu25/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rutuu25/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/rutuu25/leetcode_solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
