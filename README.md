@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/rutuu25/leetcode_solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/rutuu25/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/rutuu25/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/rutuu25/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/rutuu25/leetcode_solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rutuu25/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/rutuu25/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rutuu25/leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/rutuu25/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/rutuu25/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/rutuu25/leetcode_solutions/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/rutuu25/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/rutuu25/leetcode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
