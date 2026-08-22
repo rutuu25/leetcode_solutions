@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rutuu25/leetcode_solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rutuu25/leetcode_solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/rutuu25/leetcode_solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3663-find-the-least-frequent-digit](https://github.com/rutuu25/leetcode_solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/rutuu25/leetcode_solutions/tree/master/3731-find-missing-elements) |
