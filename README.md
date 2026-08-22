@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/rutuu25/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rutuu25/leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2596-check-knight-tour-configuration](https://github.com/rutuu25/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rutuu25/leetcode_solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rutuu25/leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rutuu25/leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/rutuu25/leetcode_solutions/tree/master/2938-separate-black-and-white-balls) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/rutuu25/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/rutuu25/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rutuu25/leetcode_solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rutuu25/leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rutuu25/leetcode_solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/rutuu25/leetcode_solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Matrix
