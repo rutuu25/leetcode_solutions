@@ -6,13 +6,13 @@ class Solution {
         for(int i=0;i<k;i++){
             sum+=arr[i];
         }
-        if(((double)sum/k) >=threshold){
+        if(sum >= k*threshold){ //(sum/k) >=threshold
             count++;
         }
         int left=0;
         for(int i=k;i<n;i++){
             sum+=arr[i]-arr[left++];
-            if((double)(sum/k) >=threshold){
+            if(sum >= k*threshold){
                 count++;
             }
         }
