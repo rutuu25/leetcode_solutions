@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/rutuu25/leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/rutuu25/leetcode_solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/rutuu25/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1095-find-in-mountain-array) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rutuu25/leetcode_solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rutuu25/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/rutuu25/leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rutuu25/leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rutuu25/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
