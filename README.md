@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rutuu25/leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/rutuu25/leetcode_solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/rutuu25/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1095-find-in-mountain-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/rutuu25/leetcode_solutions/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutuu25/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rutuu25/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rutuu25/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rutuu25/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
