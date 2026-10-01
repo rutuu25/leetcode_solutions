@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/rutuu25/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/rutuu25/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rutuu25/leetcode_solutions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rutuu25/leetcode_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/rutuu25/leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rutuu25/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rutuu25/leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/rutuu25/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/rutuu25/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rutuu25/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
