@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rutuu25/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutuu25/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rutuu25/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/rutuu25/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rutuu25/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/rutuu25/leetcode_solutions/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rutuu25/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutuu25/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/rutuu25/leetcode_solutions/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutuu25/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/rutuu25/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rutuu25/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rutuu25/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutuu25/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
 | ------- |
