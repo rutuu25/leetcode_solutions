@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/rutuu25/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rutuu25/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/rutuu25/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/rutuu25/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rutuu25/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/rutuu25/leetcode_solutions/tree/master/0561-array-partition) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rutuu25/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/rutuu25/leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rutuu25/leetcode_solutions/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/rutuu25/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/rutuu25/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/rutuu25/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/rutuu25/leetcode_solutions/tree/master/0832-flipping-an-image) |
